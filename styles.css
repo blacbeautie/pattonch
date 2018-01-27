@@ -1,0 +1,73 @@
+body {
+	background-color: white;
+	margin:5px;
+}
+img {
+	padding:5px;
+	width:300px;
+	border-radius: 8px;
+}
+
+div.bio {
+	text-align:justify;
+	padding-left: 10px;
+}
+
+a:hover {
+	color: #272821;
+}
+
+.links {
+	color: #4c4c41;
+	text-decoration-line: none;
+}
+.about-page {
+	max-width: 900px;
+}
+.landing-page {
+	margin-top:170px;
+	text-align: center;
+}
+.logo-name {
+	font-size: 32px;
+	letter-spacing: 2px;
+	font-style: italic;
+	height:40px;
+}
+
+.nav-bar-menu {
+	margin: 0px;
+	padding:11px 0px;
+    position: sticky;
+    top: 0;
+    background: white;
+}
+.menu-list {
+	margin:0px;
+	padding:0px 5px;
+}
+.menu-item {
+	display:inline;
+	margin:0px;
+	padding:8px;
+	list-style-type: none;
+	letter-spacing: 5px;
+}
+
+.resume-items {
+	color: #4c4c41;
+	margin-left:8px;
+}
+
+.footer-landing-page {
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom:10px;
+    color: #4c4c41;
+    font-size:14px;
+}
+
+.image-headshot-position {
+	vertical-align: top;
+}
