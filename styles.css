@@ -13,6 +13,12 @@ div.bio {
 	padding-left: 10px;
 }
 
+div.wip {
+	text-align: center;
+	padding:200px;
+	font-style:italic;
+	font-size:25px;
+}
 a:hover {
 	color: #272821;
 }
