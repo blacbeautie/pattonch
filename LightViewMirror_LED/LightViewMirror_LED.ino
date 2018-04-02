@@ -1,5 +1,3 @@
-#include <font5x7.h>
-#include <LedDisplay.h>
 
 int testled = 13;     // LED on teensy is at pin 13.
 
